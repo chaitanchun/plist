@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.69.5:8888/static/app/ios/h1cn_trunk.ipa</string>
+					<string>http://172.16.69.5:8888/static/app/ios/h1cn_week.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.efiregame.h1.cn.trunk</string>
+				<string>com.efiregame.h1.cn.week</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>火焰龙姬t</string>
+				<string>火焰龙姬w</string>
 			</dict>
 		</dict>
 	</array>
